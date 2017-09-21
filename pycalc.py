@@ -1,5 +1,7 @@
 import numpy as np
 
+from matplotlib import pyplot as plt
+
 N = 1000
 X = np.random.random(N)
 Y = np.random.random(N)
